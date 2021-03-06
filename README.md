@@ -17,7 +17,7 @@ git push
 
 Получился такой граф:
 
-![img.png](images/start network.png)
+![img.png](https://github.com/2ToThe10th/git-homework-3/raw/solution/images/start%20network.png)
 
 Теперь начинаем решать задачу.
 Для начала исправим все локально (находимся в ветке master):
@@ -38,6 +38,6 @@ git push --set-upstream origin dev
 
 Теперь граф выглядит: 
 
-![img.png](images/finish network.png)
+![img.png](https://github.com/2ToThe10th/git-homework-3/blob/solution/images/finish%20network.png)
 
 Теперь можно создать [merge-request](https://github.com/2ToThe10th/git-homework-3/pull/1)
